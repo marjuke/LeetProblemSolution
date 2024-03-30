@@ -7,6 +7,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "13 Roman to Integer", "13 R
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "14 Longest Common Prefix", "14 Longest Common Prefix\14 Longest Common Prefix.vcxproj", "{AD6B23AB-56C2-4F0D-BBB5-372FF656C002}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "992 Subarrays with K Different Integers", "992 Subarrays with K Different Integers\992 Subarrays with K Different Integers.vcxproj", "{2371FE6C-4925-4877-98B7-B3697CD8F87F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "20 Valid Parentheses", "20 Valid Parentheses\20 Valid Parentheses.vcxproj", "{EA81405A-5A2F-4C11-8221-8676E0DD0F25}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +35,22 @@ Global
 		{AD6B23AB-56C2-4F0D-BBB5-372FF656C002}.Release|x64.Build.0 = Release|x64
 		{AD6B23AB-56C2-4F0D-BBB5-372FF656C002}.Release|x86.ActiveCfg = Release|Win32
 		{AD6B23AB-56C2-4F0D-BBB5-372FF656C002}.Release|x86.Build.0 = Release|Win32
+		{2371FE6C-4925-4877-98B7-B3697CD8F87F}.Debug|x64.ActiveCfg = Debug|x64
+		{2371FE6C-4925-4877-98B7-B3697CD8F87F}.Debug|x64.Build.0 = Debug|x64
+		{2371FE6C-4925-4877-98B7-B3697CD8F87F}.Debug|x86.ActiveCfg = Debug|Win32
+		{2371FE6C-4925-4877-98B7-B3697CD8F87F}.Debug|x86.Build.0 = Debug|Win32
+		{2371FE6C-4925-4877-98B7-B3697CD8F87F}.Release|x64.ActiveCfg = Release|x64
+		{2371FE6C-4925-4877-98B7-B3697CD8F87F}.Release|x64.Build.0 = Release|x64
+		{2371FE6C-4925-4877-98B7-B3697CD8F87F}.Release|x86.ActiveCfg = Release|Win32
+		{2371FE6C-4925-4877-98B7-B3697CD8F87F}.Release|x86.Build.0 = Release|Win32
+		{EA81405A-5A2F-4C11-8221-8676E0DD0F25}.Debug|x64.ActiveCfg = Debug|x64
+		{EA81405A-5A2F-4C11-8221-8676E0DD0F25}.Debug|x64.Build.0 = Debug|x64
+		{EA81405A-5A2F-4C11-8221-8676E0DD0F25}.Debug|x86.ActiveCfg = Debug|Win32
+		{EA81405A-5A2F-4C11-8221-8676E0DD0F25}.Debug|x86.Build.0 = Debug|Win32
+		{EA81405A-5A2F-4C11-8221-8676E0DD0F25}.Release|x64.ActiveCfg = Release|x64
+		{EA81405A-5A2F-4C11-8221-8676E0DD0F25}.Release|x64.Build.0 = Release|x64
+		{EA81405A-5A2F-4C11-8221-8676E0DD0F25}.Release|x86.ActiveCfg = Release|Win32
+		{EA81405A-5A2F-4C11-8221-8676E0DD0F25}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
